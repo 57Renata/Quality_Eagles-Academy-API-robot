@@ -63,3 +63,9 @@ robot -d resuts ./tests/login.robot
  
 ### Resultados
 ![alt text](<Captura de Tela (239).png>)
+
+## Projeto desenvolvido por:
+- [@RenataMelo](https://www.linkedin.com/in/renata-melo-592364254/C)
+#### Tech Lead
+   Vinicios
+
