@@ -1,4 +1,6 @@
 # Projeto de API com robot framework
+
+Squad Quality Eagles
  
 ## Tecnologias
  
